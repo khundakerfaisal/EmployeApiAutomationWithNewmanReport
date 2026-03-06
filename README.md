@@ -5,3 +5,6 @@ This is a employee api automation project.it is facilated to user create employe
 - nodejs
 ## How to run this project
 - clone the project [Employee APi project](https://github.com/khundakerfaisal/EmployeApiAutomationWithNewmanReport.git)
+```Hit the command```
+ ``` bash
+npm init -y ```
