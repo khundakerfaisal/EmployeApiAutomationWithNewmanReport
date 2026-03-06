@@ -9,7 +9,10 @@ This is a employee api automation project.it is facilated to user create employe
  ``` bash
 npm init -y
 ```
-```Hit the command ```
 ``` bash
 npm i newman
 ```
+
+## Newman Report
+
+[report.html](https://github.com/user-attachments/files/25802210/report.html)
