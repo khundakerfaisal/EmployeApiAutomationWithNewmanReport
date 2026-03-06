@@ -7,4 +7,5 @@ This is a employee api automation project.it is facilated to user create employe
 - clone the project [Employee APi project](https://github.com/khundakerfaisal/EmployeApiAutomationWithNewmanReport.git)
 ```Hit the command```
  ``` bash
-npm init -y ```
+npm init -y
+```
