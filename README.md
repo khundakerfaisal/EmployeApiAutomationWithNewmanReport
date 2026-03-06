@@ -15,4 +15,5 @@ npm i newman
 
 ## Newman Report
 
-[report.html](https://github.com/user-attachments/files/25802210/report.html)
+![report 1](https://github.com/user-attachments/assets/cd49929a-89d5-4214-aeef-dda32b187f45)
+![report 2](https://github.com/user-attachments/assets/7902ace2-744c-4f2d-a91b-76e2694ac6df)
