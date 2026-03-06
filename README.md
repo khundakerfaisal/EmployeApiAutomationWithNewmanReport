@@ -21,3 +21,5 @@ npm i newman
 
 ## Automation vedio
 driver.google.com/nkjsdah
+## Bug Report
+## Test Case
