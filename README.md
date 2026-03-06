@@ -4,4 +4,4 @@ This is a employee api automation project.it is facilated to user create employe
 ## Prerequisite
 - nodejs
 ## How to run this project
-- clone the project (Employee APi project)[https://github.com/khundakerfaisal/EmployeApiAutomationWithNewmanReport.git]
+- clone the project [Employee APi project](https://github.com/khundakerfaisal/EmployeApiAutomationWithNewmanReport.git)
