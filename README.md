@@ -6,9 +6,8 @@ This is Employee api project .This project is facilated to create,get,update and
 - Nodejs
 ## Api Documentation [Documentation](https://documenter.getpostman.com/view/25113210/2sB3BLhSC1)
 ## How To run this Project
-- ```Clone this project``` [Employee Api Project](https://github.com/khundakerfaisal/EmployeApiAutomationWithNewmanReport.git)
-```
-- ``Hit the command```
+- Clone this project : [Employee Api Project](https://github.com/khundakerfaisal/EmployeApiAutomationWithNewmanReport.git)
+- Hit the command :
 ``` bash
 npm init -y
 ```
