@@ -15,8 +15,9 @@ npm init -y
 ![report 1](https://github.com/user-attachments/assets/8286e38a-9a44-44ad-b335-5747ff4fc96f)
 ![report 2](https://github.com/user-attachments/assets/5ef8d442-69ba-4581-ab87-6cfd88ef4c2c)
 
-## bug Report
-
+## Bug Report
+- Share Excel or jira url
 ## Automation Video
+- Share Drive link here
 
 
